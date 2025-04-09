@@ -18,7 +18,7 @@ A robust REST API solution for creating, retrieving, and managing QR codes. Buil
 ## 📋 Requirements
 
 - Python 3.8+
-- Docker (optional)
+- Docker 
 - Internet connection (for dependencies)
 
 ## 🚀 Quick Start
